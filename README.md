@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @alarista
+- Account Strategist @Google MX
 - 👀 I’m interested in Digital Marketing, Growth Hacking and Technology
 - 🌱 I’m currently learning Web Development (HTML, CSS & JS)
 - 💞️ I’m looking to collaborate on open-source projects and marketing strategies.
